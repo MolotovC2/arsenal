@@ -7,7 +7,7 @@ This repository contains a collection of 3rd party scripts and pre-compiled exec
 * [ADCollector](https://github.com/dev-2null/ADCollector) - A lightweight tool to quickly extract valuable information from the Active Directory environment. ADCollector is not an alternative to the powerful PowerView, it just automates enumeration to quickly identify juicy information without thinking too much at the early Recon stage. Functions implemented in ADCollector are ideal for enumeration in a large Enterprise environment with lots of users/computers, without generating lots of traffic and taking a large amount of time.
 * [BetterSafetyKatz](https://github.com/Flangvik/BetterSafetyKatz) - Fork of SafetyKatz dynamically fetches the latest Mimikatz, runtime patching signatures and PE loads Mimikatz into memory.
 * [Group3r](https://github.com/Group3r/Group3r) -  C# tool to find vulnerabilities in AD Group Policy, but do it better than Grouper2 did.
-* [JuicyPotatoNg](https://github.com/antonioCoco/JuicyPotatoNG) - Another Windows Local Privilege Escalation from Service Account to System.
+* [JuicyPotatoNG](https://github.com/antonioCoco/JuicyPotatoNG) - Another Windows Local Privilege Escalation from Service Account to System.
 * [KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp) - universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced.
 * [lazagne](https://github.com/AlessandroZ/LaZagne) - Open source Python application used to retrieve lots of passwords stored on a local computer. *NOTE: Does not work with in-memory execution, must be placed on disk*.
 * [mimikatz{64,32}](https://github.com/gentilkiwi/mimikatz) - Classic tool for manipulating and extracting Windows credentials from memory.
