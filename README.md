@@ -11,7 +11,7 @@ This repository contains a collection of 3rd party scripts and pre-compiled exec
 | [Group3r.exe](https://github.com/Group3r/Group3r) | 1.0.53 | Windows | Any |  C# tool to find vulnerabilities in AD Group Policy, but do it better than Grouper2 did. |
 | [JuicyPotatoNG.exe](https://github.com/antonioCoco/JuicyPotatoNG) | 1.1 | Windows | x64 | Another Windows Local Privilege Escalation from Service Account to System. |
 | [KrbRelayUp.exe](https://github.com/Dec0ne/KrbRelayUp) | e919f78 | Windows | Any | universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced. |
-| [LaZagne.exe](https://github.com/AlessandroZ/LaZagne) | 2.4.5 | Windows | x64 | Open source Python application used to retrieve lots of passwords stored on a local computer. *NOTE: Does not work with in-memory execution, must be placed on disk*. |
+| [lazagne.exe](https://github.com/AlessandroZ/LaZagne) | 2.4.5 | Windows | x64 | Open source Python application used to retrieve lots of passwords stored on a local computer. *NOTE: Does not work with in-memory execution, must be placed on disk*. |
 | [mimikatz64.exe](https://github.com/gentilkiwi/mimikatz) | 2.2.0 20220919 | Windows | x64 | Classic tool for manipulating and extracting Windows credentials from memory. |
 | [mimikatz32.exe](https://github.com/gentilkiwi/mimikatz) | 2.2.0 20220919 | Windows | x86 | Classic tool for manipulating and extracting Windows credentials from memory. |
 | [mimidrv64.sys](https://github.com/gentilkiwi/mimikatz) | 2.2.0 20220919 | Windows | x64 | Classic tool for manipulating and extracting Windows credentials from memory. (Driver) |
