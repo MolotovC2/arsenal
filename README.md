@@ -1,6 +1,6 @@
 # Arsenal
 
-This repository contains a collection of 3rd party scripts and pre-compiled executables useful for post-exploitation with [Molotov](https://acab.enterprises/dismantl/Molotov).
+This repository contains a collection of 3rd party scripts and pre-compiled executables useful for post-exploitation with [Molotov](https://github.com/dismantl/Molotov).
 
 ## Modules
 
